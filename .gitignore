@@ -1,3 +1,9 @@
+# Ignore credentials
 config.py
+
+# Ignore downloaded imagery
+sentinel2_downloads/
+
+# Python
 __pycache__/
 *.pyc
