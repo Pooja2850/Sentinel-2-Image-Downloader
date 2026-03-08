@@ -1,5 +1,5 @@
 '''
-Sentinel-2 downloader
+Sentinel-2 Downloader
 Created by: Pooja Prajith
 '''
 
